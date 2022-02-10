@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Python/pythonProject/Kivy/ModulationKivy/.idea/ModulationKivy.iml" filepath="$USER_HOME$/Python/pythonProject/Kivy/ModulationKivy/.idea/ModulationKivy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modulation.kv.iml" filepath="$PROJECT_DIR$/.idea/modulation.kv.iml" />
+    </modules>
+  </component>
+</project>
